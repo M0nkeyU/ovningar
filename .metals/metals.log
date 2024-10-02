@@ -557,3 +557,184 @@ WARNING: Unmatched cancel notification for request id 2
 2024.10.02 15:13:04 INFO  time: indexed workspace in 19s[0m
 2024.10.02 15:13:05 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/uppgifter.scala[0m
 2024.10.02 15:13:07 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/uppgifter.scala[0m
+2024.10.02 15:48:18 INFO  compiling ovning_0b8ab2eb33 (1 scala source)[0m
+2024.10.02 15:48:20 INFO  time: compiled ovning_0b8ab2eb33 in 2.29s[0m
+2024.10.02 16:28:50 INFO  no build target found for /h/dk/s/li0581bi-s/pgk/ovning/pos.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.02 16:28:50 INFO  no build target found for /h/dk/s/li0581bi-s/pgk/ovning/pos.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.02 16:28:50 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/pos.scala[0m
+2024.10.02 16:28:51 INFO  running doctor check[0m
+2024.10.02 16:28:51 INFO  java targets: ovning_0b8ab2eb33-test, ovning_0b8ab2eb33[0m
+2024.10.02 16:28:51 INFO  compiling ovning_0b8ab2eb33 (1 scala source)[0m
+2024.10.02 16:28:51 INFO  time: compiled ovning_0b8ab2eb33 in 0.26s[0m
+2024.10.02 16:28:53 INFO  time: indexed workspace in 1.96s[0m
+2024.10.02 16:28:53 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/pos.scala[0m
+2024.10.02 16:29:00 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/pos.scala[0m
+2024.10.02 16:29:00 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/pos.scala[0m
+2024.10.02 16:29:01 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/pos.scala[0m
+2024.10.02 16:29:02 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/pos.scala[0m
+Oct 02, 2024 4:29:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 315
+Oct 02, 2024 4:29:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 538
+Oct 02, 2024 4:29:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 562
+2024.10.02 16:30:05 INFO  compiling ovning_0b8ab2eb33 (1 scala source)[0m
+2024.10.02 16:30:05 INFO  time: compiled ovning_0b8ab2eb33 in 0.27s[0m
+2024.10.02 16:30:41 INFO  no build target found for /h/dk/s/li0581bi-s/pgk/ovning/window.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.02 16:30:41 INFO  no build target found for /h/dk/s/li0581bi-s/pgk/ovning/window.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.02 16:30:41 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/window.scala[0m
+2024.10.02 16:30:41 INFO  running doctor check[0m
+2024.10.02 16:30:41 INFO  java targets: ovning_0b8ab2eb33-test, ovning_0b8ab2eb33[0m
+2024.10.02 16:30:41 INFO  compiling ovning_0b8ab2eb33 (3 scala sources)[0m
+2024.10.02 16:30:41 INFO  time: compiled ovning_0b8ab2eb33 in 0.28s[0m
+2024.10.02 16:30:41 INFO  compiling ovning_0b8ab2eb33 (3 scala sources)[0m
+2024.10.02 16:30:41 INFO  time: compiled ovning_0b8ab2eb33 in 0.35s[0m
+2024.10.02 16:30:43 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/window.scala[0m
+2024.10.02 16:30:43 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/window.scala[0m
+2024.10.02 16:30:43 INFO  time: indexed workspace in 2.09s[0m
+2024.10.02 16:30:43 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/window.scala[0m
+2024.10.02 16:30:44 INFO  compiling ovning_0b8ab2eb33 (3 scala sources)[0m
+2024.10.02 16:30:44 INFO  time: compiled ovning_0b8ab2eb33 in 0.17s[0m
+2024.10.02 16:30:44 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/window.scala[0m
+2024.10.02 16:30:44 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/window.scala[0m
+Oct 02, 2024 4:32:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1240
+2024.10.02 16:36:42 INFO  no build target found for /h/dk/s/li0581bi-s/pgk/ovning/project.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.02 16:36:42 INFO  no build target found for /h/dk/s/li0581bi-s/pgk/ovning/project.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.02 16:36:42 INFO  compiling ovning_0b8ab2eb33 (4 scala sources)[0m
+2024.10.02 16:36:42 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:36:42 INFO  no build target found for /h/dk/s/li0581bi-s/pgk/ovning/project.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.02 16:36:42 INFO  running doctor check[0m
+2024.10.02 16:36:42 INFO  java targets: ovning_0b8ab2eb33-test, ovning_0b8ab2eb33[0m
+2024.10.02 16:36:42 INFO  compiling ovning_0b8ab2eb33 (4 scala sources)[0m
+2024.10.02 16:36:43 INFO  time: compiled ovning_0b8ab2eb33 in 0.35s[0m
+2024.10.02 16:36:45 INFO  time: indexed workspace in 2.76s[0m
+2024.10.02 16:36:45 INFO  compiling ovning_0b8ab2eb33 (4 scala sources)[0m
+2024.10.02 16:36:45 INFO  time: compiled ovning_0b8ab2eb33 in 0.28s[0m
+2024.10.02 16:36:57 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:10 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:11 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:12 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:11 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:13 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:13 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:14 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:14 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:16 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:16 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:17 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:22 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:22 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:23 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:23 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:24 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:24 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:26 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:37:27 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:38:04 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:38:08 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/maven-metadata.xml[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.5.1/scala3-compiler_3-3.5.1.pom[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.5.1/scala3-compiler_3-3.5.1.pom[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.5.1/scala3-interfaces-3.5.1.pom[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.5.1/tasty-core_3-3.5.1.pom[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.5.1/scala3-library_3-3.5.1.pom[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.5.1/scala3-interfaces-3.5.1.pom[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.5.1/tasty-core_3-3.5.1.pom[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.5.1/scala3-library_3-3.5.1.pom[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.5.1/scala3-library_3-3.5.1.jar[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.5.1/tasty-core_3-3.5.1.jar[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.5.1/scala3-interfaces-3.5.1.jar[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.5.1/scala3-compiler_3-3.5.1.jar[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.5.1/tasty-core_3-3.5.1.jar[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.5.1/scala3-interfaces-3.5.1.jar[0m
+2024.10.02 16:38:13 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.5.1/scala3-library_3-3.5.1.jar[0m
+2024.10.02 16:38:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.5.1/scala3-compiler_3-3.5.1.jar[0m
+2024.10.02 16:38:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.5.1/scala3-sbt-bridge-3.5.1.pom[0m
+2024.10.02 16:38:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.5.1/scala3-sbt-bridge-3.5.1.pom[0m
+2024.10.02 16:38:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.5.1/scala3-sbt-bridge-3.5.1.jar[0m
+2024.10.02 16:38:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-sbt-bridge/3.5.1/scala3-sbt-bridge-3.5.1.jar[0m
+2024.10.02 16:38:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/se/lth/cs/introprog_3/1.4.0/introprog_3-1.4.0.pom[0m
+2024.10.02 16:38:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/se/lth/cs/introprog_3/1.4.0/introprog_3-1.4.0.pom[0m
+2024.10.02 16:38:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.5.1/scala3-library_3-3.5.1-sources.jar[0m
+2024.10.02 16:38:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/se/lth/cs/introprog_3/1.4.0/introprog_3-1.4.0-sources.jar[0m
+2024.10.02 16:38:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/se/lth/cs/introprog_3/1.4.0/introprog_3-1.4.0.jar[0m
+2024.10.02 16:38:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/se/lth/cs/introprog_3/1.4.0/introprog_3-1.4.0-sources.jar[0m
+2024.10.02 16:38:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.5.1/scala3-library_3-3.5.1-sources.jar[0m
+2024.10.02 16:38:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/se/lth/cs/introprog_3/1.4.0/introprog_3-1.4.0.jar[0m
+2024.10.02 16:38:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/se/lth/cs/introprog_3/[0m
+2024.10.02 16:38:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/se/lth/cs/introprog_3/[0m
+2024.10.02 16:38:14 INFO  BSP server: Downloading https://repo1.maven.org/maven2/se/lth/cs/introprog_3/maven-metadata.xml[0m
+2024.10.02 16:38:14 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/se/lth/cs/introprog_3/maven-metadata.xml[0m
+2024.10.02 16:38:15 INFO  Cancelling compilation on scala-cli server[0m
+2024.10.02 16:38:15 INFO  compiling ovning_0b8ab2eb33 (4 scala sources)[0m
+2024.10.02 16:38:17 INFO  time: compiled ovning_0b8ab2eb33 in 1.96s[0m
+2024.10.02 16:38:17 INFO  time: Imported build in 2.08s[0m
+2024.10.02 16:38:17 INFO  running doctor check[0m
+2024.10.02 16:38:17 INFO  java targets: ovning_0b8ab2eb33-test, ovning_0b8ab2eb33[0m
+2024.10.02 16:38:20 INFO  time: indexed workspace in 2.77s[0m
+2024.10.02 16:38:20 INFO  compiling ovning_0b8ab2eb33 (4 scala sources)[0m
+2024.10.02 16:38:20 INFO  time: compiled ovning_0b8ab2eb33 in 0.27s[0m
+2024.10.02 16:38:22 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:38:51 INFO  no build target found for /h/dk/s/li0581bi-s/pgk/ovning/main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.02 16:38:51 INFO  no build target found for /h/dk/s/li0581bi-s/pgk/ovning/main.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.02 16:38:51 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/main.scala[0m
+2024.10.02 16:38:51 INFO  running doctor check[0m
+2024.10.02 16:38:51 INFO  java targets: ovning_0b8ab2eb33-test, ovning_0b8ab2eb33[0m
+2024.10.02 16:38:52 INFO  compiling ovning_0b8ab2eb33 (5 scala sources)[0m
+2024.10.02 16:38:52 INFO  time: compiled ovning_0b8ab2eb33 in 0.59s[0m
+2024.10.02 16:38:52 INFO  compiling ovning_0b8ab2eb33 (5 scala sources)[0m
+2024.10.02 16:38:53 INFO  time: compiled ovning_0b8ab2eb33 in 0.31s[0m
+2024.10.02 16:38:54 INFO  time: indexed workspace in 2s[0m
+2024.10.02 16:38:54 INFO  compiling ovning_0b8ab2eb33 (5 scala sources)[0m
+2024.10.02 16:38:54 INFO  time: compiled ovning_0b8ab2eb33 in 0.23s[0m
+2024.10.02 16:38:55 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/main.scala[0m
+2024.10.02 16:39:29 INFO  no build target found for /h/dk/s/li0581bi-s/pgk/ovning/mole.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.02 16:39:29 INFO  no build target found for /h/dk/s/li0581bi-s/pgk/ovning/mole.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.02 16:39:29 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/mole.scala[0m
+2024.10.02 16:39:29 INFO  running doctor check[0m
+2024.10.02 16:39:29 INFO  java targets: ovning_0b8ab2eb33-test, ovning_0b8ab2eb33[0m
+2024.10.02 16:39:29 INFO  compiling ovning_0b8ab2eb33 (6 scala sources)[0m
+2024.10.02 16:39:29 INFO  time: compiled ovning_0b8ab2eb33 in 0.23s[0m
+2024.10.02 16:39:29 INFO  compiling ovning_0b8ab2eb33 (6 scala sources)[0m
+2024.10.02 16:39:29 INFO  time: compiled ovning_0b8ab2eb33 in 0.22s[0m
+2024.10.02 16:39:31 INFO  time: indexed workspace in 1.88s[0m
+2024.10.02 16:39:32 INFO  compiling ovning_0b8ab2eb33 (6 scala sources)[0m
+2024.10.02 16:39:32 INFO  time: compiled ovning_0b8ab2eb33 in 0.18s[0m
+2024.10.02 16:39:32 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/mole.scala[0m
+2024.10.02 16:40:20 INFO  file:///h/dk/s/li0581bi-s/pgk/ovning/pos.scala:3:12: stale bloop error: an identifier expected, but '(' found
+case class (x: Int, y: Int):
+           ^[0m
+2024.10.02 16:40:20 INFO  file:///h/dk/s/li0581bi-s/pgk/ovning/pos.scala:3:12: stale bloop error: an identifier expected, but '(' found
+case class (x: Int, y: Int):
+           ^[0m
+2024.10.02 16:40:20 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/pos.scala[0m
+2024.10.02 16:40:25 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/project.scala[0m
+2024.10.02 16:40:47 INFO  no build target found for /h/dk/s/li0581bi-s/pgk/ovning/KeyControl.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.02 16:40:47 INFO  no build target found for /h/dk/s/li0581bi-s/pgk/ovning/KeyControl.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.02 16:40:47 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/KeyControl.scala[0m
+2024.10.02 16:40:47 INFO  running doctor check[0m
+2024.10.02 16:40:47 INFO  java targets: ovning_0b8ab2eb33-test, ovning_0b8ab2eb33[0m
+2024.10.02 16:40:47 INFO  compiling ovning_0b8ab2eb33 (7 scala sources)[0m
+2024.10.02 16:40:47 INFO  time: compiled ovning_0b8ab2eb33 in 0.25s[0m
+2024.10.02 16:40:47 INFO  compiling ovning_0b8ab2eb33 (7 scala sources)[0m
+2024.10.02 16:40:47 INFO  time: compiled ovning_0b8ab2eb33 in 0.2s[0m
+2024.10.02 16:40:49 INFO  time: indexed workspace in 1.8s[0m
+2024.10.02 16:40:49 INFO  compiling ovning_0b8ab2eb33 (7 scala sources)[0m
+2024.10.02 16:40:49 INFO  time: compiled ovning_0b8ab2eb33 in 0.19s[0m
+2024.10.02 16:40:59 INFO  no build target found for /h/dk/s/li0581bi-s/pgk/ovning/game.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.02 16:40:59 INFO  no build target found for /h/dk/s/li0581bi-s/pgk/ovning/game.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.02 16:40:59 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/game.scala[0m
+2024.10.02 16:40:59 INFO  running doctor check[0m
+2024.10.02 16:40:59 INFO  java targets: ovning_0b8ab2eb33-test, ovning_0b8ab2eb33[0m
+2024.10.02 16:41:00 INFO  compiling ovning_0b8ab2eb33 (8 scala sources)[0m
+2024.10.02 16:41:00 INFO  time: compiled ovning_0b8ab2eb33 in 0.19s[0m
+2024.10.02 16:41:00 INFO  compiling ovning_0b8ab2eb33 (8 scala sources)[0m
+2024.10.02 16:41:00 INFO  time: compiled ovning_0b8ab2eb33 in 0.18s[0m
+2024.10.02 16:41:02 INFO  time: indexed workspace in 1.83s[0m
+2024.10.02 16:41:02 INFO  compiling ovning_0b8ab2eb33 (8 scala sources)[0m
+2024.10.02 16:41:02 INFO  time: compiled ovning_0b8ab2eb33 in 0.17s[0m
+2024.10.02 16:41:02 WARN  Could not find semantic tokens for: file:///h/dk/s/li0581bi-s/pgk/ovning/game.scala[0m
